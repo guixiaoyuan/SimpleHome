@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="selected_list_color">#a5c5fa</color>
+    <color name="clock_text_color">#ffffffff</color>
+    <color name="app_name_color">#ffffffff</color>
+    <color name="tools_title_bar_color">#ffffffff</color>
+    <color name="tools_status_bar_color">#2d6dda</color>
+
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color">#4385f5</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+</resources>

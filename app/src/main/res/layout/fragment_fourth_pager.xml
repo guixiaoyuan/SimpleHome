@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.sprd.simple.model.LauncherGridView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/fourth_grid_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="@dimen/horizontalSpacing_grid_view"
+        android:columnWidth="90dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:horizontalSpacing="@dimen/horizontalSpacing_grid_view"
+        android:numColumns="2"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="@dimen/verticalSpacing_grid_view" />
+</RelativeLayout>
+
+
+

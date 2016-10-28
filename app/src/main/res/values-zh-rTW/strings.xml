@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">SimpleHome</string>
+    <string name="contacts_name">使用者</string>
+    <string name="camera_name">相機</string>
+    <string name="phone_name">電話</string>
+    <string name="message_name">訊息</string>
+    <string name="video_name">視頻</string>
+    <string name="calendar_name">萬年曆</string>
+    <string name="gallery_name">圖片庫</string>
+    <string name="fm_name">收音機</string>
+    <string name="clock_name">時鐘</string>
+    <string name="settings_name">設定</string>
+    <string name="music_name">音樂</string>
+    <string name="browser_name">瀏覽器</string>
+    <string name="tools_name">工具</string>
+    <string name="backup_name">備份與恢復</string>
+    <string name="sound_recorder_name">錄音程式</string>
+    <string name="file_manager_name">文件管理器</string>
+    <string name="calculator_name">計算機</string>
+    <string name="note_name">記事本</string>
+    <string name="call_fire_wall_name">來電防火牆</string>
+    <string name="sos_name">SOS</string>
+    <string name="call_log_name">通話記錄</string>
+    <string name="speed_name">一鍵加速</string>
+    <string name="unread_hint">缺乏電話和簡訊許可權，請檢查您的權限設定</string>
+    <string name="family">親情號</string>
+    <string name="remove_title">移除聯繫人</string>
+    <string name="remove_info">確定移除聯繫人？</string>
+    <string name="remove_confirm">確定</string>
+    <string name="remove_cancel">取消</string>
+    <string name="choose">選擇</string>
+    <string name="back">返回</string>
+    <string name="app_not_found">無法找到應用.</string>
+    <string name="clean_toast_prompt">成功釋放了 <xliff:g id="count">%1$s</xliff:g> 个後臺程序, 當前可用內存為 <xliff:g id="count">%2$s</xliff:g> MB.</string>
+</resources>

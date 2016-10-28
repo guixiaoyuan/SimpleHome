@@ -1,0 +1,39 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="widget_big_font_size">60dp</dimen>
+    <dimen name="widget_mm_font_size">22dp</dimen>
+    <dimen name="bottom_text_spacing_digital">2dp</dimen>
+    <dimen name="widget_label_font_size">22dp</dimen>
+    <dimen name="itemSize">100dp</dimen>
+
+    <!-- For Tools ListView -->
+    <dimen name="button_height">34px</dimen>
+    <dimen name="button_padding">8dp</dimen>
+    <dimen name="button_text_size">22sp</dimen>
+    <dimen name="app_list_item_height">56px</dimen>
+    <dimen name="app_list_item_text_size">24sp</dimen>
+    <dimen name="app_list_item_text_height">30dp</dimen>
+    <dimen name="app_list_item_text_weight">328dp</dimen>
+    <dimen name="app_image_width">48px</dimen>
+    <dimen name="app_image_height">48px</dimen>
+    <dimen name="tools_title_bar_height">28px</dimen>
+    <dimen name="list_height">224px</dimen>
+
+    <!-- For unread info -->
+    <dimen name="unread_text_layout_margin">3dp</dimen>
+
+    <!-- For default fragment -->
+    <dimen name="height_is_zero">0dp</dimen>
+    <dimen name="clock_layout_marginLeft">5dp</dimen>
+    <dimen name="clock_layout_marginBottom">20dp</dimen>
+
+    <dimen name="horizontalSpacing_grid_view">4px</dimen>
+    <dimen name="verticalSpacing_grid_view">4px</dimen>
+
+    <!-- For app item info -->
+    <dimen name="app_item_width">114sp</dimen>
+    <dimen name="app_item_height">94sp</dimen>
+
+</resources>

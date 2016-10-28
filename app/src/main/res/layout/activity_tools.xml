@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ListView
+        android:id="@+id/list_second_item"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_height"
+        android:layout_weight="1"
+        android:divider="@drawable/divider"
+        android:focusable="true"
+        android:listSelector="@color/transparent" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_height"
+        android:background="@color/black"
+        android:padding="@dimen/button_padding">
+
+        <Button
+            android:id="@+id/btn_choose"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/button_height"
+            android:layout_centerHorizontal="true"
+            android:background="@color/black"
+            android:text="@string/choose"
+            android:textColor="@color/app_name_color"
+            android:textSize="@dimen/button_text_size" />
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/button_height"
+            android:layout_alignParentRight="true"
+            android:background="@color/black"
+            android:text="@string/back"
+            android:textColor="@color/app_name_color"
+            android:textSize="@dimen/button_text_size" />
+    </RelativeLayout>
+
+</LinearLayout>
+
+

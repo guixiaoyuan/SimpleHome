@@ -1,0 +1,47 @@
+<resources>
+
+    <style name="widget_time">
+        <item name="android:textSize">@dimen/widget_big_font_size</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="widget_time_format">
+        <item name="android:textSize">@dimen/widget_mm_font_size</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="widget_date">
+        <item name="android:textSize">@dimen/widget_label_font_size</item>
+        <item name="android:format12Hour">yyyy.MM.dd EEEE</item>
+        <item name="android:format24Hour">yyyy.MM.dd EEEE</item>
+    </style>
+
+    <style name="icon_text">
+        <item name="android:textSize">@dimen/widget_label_font_size</item>
+        <item name="android:textColor">@color/app_name_color</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+
+    <style name="activity_Theme" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="customTheme" parent="android:Theme">
+        <item name="android:windowTitleSize">44px</item>
+        <item name="android:windowTitleBackgroundStyle">@style/WindowTitleBackground</item>
+
+    </style>
+
+    <style name="WindowTitleBackground">
+        <item name="android:background">@color/color</item>
+    </style>
+
+    <style name="usedMemoryPercent">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/app_name_color</item>
+    </style>
+</resources>

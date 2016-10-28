@@ -1,0 +1,82 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">SimpleHome</string>
+    <!-- Time format strings for fall-back app_clock widget -->
+    <string name="keyguard_widget_12_hours_format" translatable="false">hh\uee01mm</string>
+    <!-- Time format strings for fall-back app_clock widget -->
+    <string name="keyguard_widget_24_hours_format" translatable="false">kk\uee01mm</string>
+    <!-- packages information -->
+    <string name="contacts_name">Contacts</string>
+    <string name="contacts_package">com.android.contacts</string>
+    <string name="contacts_activity">com.android.contacts.activities.PeopleActivity</string>
+    <string name="camera_name">Camera</string>
+    <string name="camera_package">com.android.camera2</string>
+    <string name="camera_activity">com.android.camera.CameraLauncher</string>
+    <string name="phone_name">Phone</string>
+    <string name="phone_package">com.android.dialer</string>
+    <string name="phone_activity">com.android.dialer.DialtactsActivity</string>
+    <string name="message_name">Message</string>
+    <string name="message_package">com.android.messaging</string>
+    <string name="message_activity">com.android.messaging.ui.conversationlist.ConversationListActivity</string>
+    <string name="video_name">Video</string>
+    <string name="video_package">com.android.gallery3d</string>
+    <string name="video_activity">com.sprd.gallery3d.app.VideoActivity</string>
+    <string name="calendar_name">Calendar</string>
+    <string name="calendar_package">com.android.calendar</string>
+    <string name="calendar_activity">com.android.calendar.AllInOneActivity</string>
+    <string name="gallery_name">Gallery</string>
+    <string name="gallery_package">com.android.gallery3d</string>
+    <string name="gallery_activity">com.android.gallery3d.app.GalleryActivity</string>
+    <string name="fm_name">FM Radio</string>
+    <string name="fm_package">com.android.fmradio</string>
+    <string name="fm_activity">com.android.fmradio.FmMainActivity</string>
+    <string name="clock_name">Clock</string>
+    <string name="clock_package">com.android.deskclock</string>
+    <string name="clock_activity">com.android.deskclock.DeskClock</string>
+    <string name="settings_name">Settings</string>
+    <string name="settings_package">com.android.settings</string>
+    <string name="settings_activity">com.android.settings.Settings</string>
+    <string name="music_name">Music</string>
+    <string name="music_package">com.android.music</string>
+    <string name="music_activity">com.android.music.MusicBrowserActivity</string>
+    <string name="browser_name">Browser</string>
+    <string name="browser_package">com.android.browser</string>
+    <string name="browser_activity">com.android.browser.BrowserActivity</string>
+    <string name="tools_name">Tools</string>
+    <string name="backup_name">Backup And Restore</string>
+    <string name="backup_package">com.sprd.appbackup</string>
+    <string name="backup_activity">com.sprd.appbackup.activities.MainActivity</string>
+    <string name="sound_recorder_name">Sound Recorder</string>
+    <string name="sound_recorder_package">com.android.soundrecorder</string>
+    <string name="sound_recorder_activity">com.android.soundrecorder.SoundRecorder</string>
+    <string name="file_manager_name">File Explorer</string>
+    <string name="file_manager_package">com.sprd.fileexplorer</string>
+    <string name="file_manager_activity">com.sprd.fileexplorer.activities.FileExploreActivity</string>
+    <string name="calculator_name">Calculator</string>
+    <string name="calculator_package">com.sprd.sprdcalculator</string>
+    <string name="calculator_activity">com.sprd.sprdcalculator.MainActivity</string>
+    <string name="note_name">Note</string>
+    <string name="note_package">com.sprd.note</string>
+    <string name="note_activity">com.sprd.note.NoteActivity</string>
+    <string name="call_fire_wall_name">CallFireWall</string>
+    <string name="call_fire_wall_package">com.sprd.firewall</string>
+    <string name="call_fire_wall_activity">com.sprd.firewall.ui.CallFireWallActivity</string>
+    <string name="sos_name">SOS</string>
+    <string name="sos_package">com.android.sos</string>
+    <string name="sos_activity">com.android.sos.SosActivity</string>
+    <string name="call_log_name">CallLog</string>
+    <string name="call_log_package">com.android.dialer</string>
+    <string name="call_log_activity">com.android.dialer.calllog.CallLogActivity</string>
+    <string name="speed_name">Cleaner</string>
+    <string name="speed_package"></string>
+    <string name="speed_activity"></string>
+    <string name="unread_hint">Missing Phone and SMS permissions, please check your permission settings</string>
+    <string name="family">Family</string>
+    <string name="remove_title">Remove Contact</string>
+    <string name="remove_info">Are you sure to remove the contact from workspace?</string>
+    <string name="remove_confirm">OK</string>
+    <string name="remove_cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="choose">Choose</string>
+    <string name="app_not_found">App is not found.</string>
+    <string name="clean_toast_prompt">Released <xliff:g id="count">%1$s</xliff:g> processes,  <xliff:g id="count">%2$s</xliff:g> MB available now.</string>
+</resources>

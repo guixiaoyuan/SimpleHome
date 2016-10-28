@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="3dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_is_zero"
+            android:layout_marginLeft="@dimen/clock_layout_marginLeft"
+            android:layout_marginRight="@dimen/clock_layout_marginLeft"
+            android:layout_weight="1"
+            android:background="@drawable/time_background"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_is_zero"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="2"
+                android:orientation="horizontal">
+
+                <TextClock
+                    android:id="@+id/clock_view"
+                    style="@style/widget_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:format12Hour="@string/keyguard_widget_12_hours_format"
+                    android:format24Hour="@string/keyguard_widget_24_hours_format"
+                    android:singleLine="true"
+                    android:textColor="@color/clock_text_color" />
+
+                <TextClock
+                    android:id="@+id/format_time_view"
+                    style="@style/widget_time_format"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/clock_view"
+                    android:layout_marginBottom="@dimen/clock_layout_marginBottom"
+                    android:layout_toRightOf="@+id/clock_view"
+                    android:format12Hour="aa"
+                    android:format24Hour=""
+                    android:singleLine="true"
+                    android:textColor="@color/clock_text_color" />
+
+            </RelativeLayout>
+
+            <TextClock
+                android:id="@+id/format_date_view"
+                style="@style/widget_date"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_is_zero"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="20dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:letterSpacing="0.15"
+                android:textAllCaps="true"
+                android:textColor="@color/clock_text_color" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_is_zero"
+            android:layout_weight="2">
+
+            <com.sprd.simple.model.LauncherGridView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/default_grid_view"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:columnWidth="90dp"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:gravity="center"
+                android:horizontalSpacing="@dimen/horizontalSpacing_grid_view"
+                android:numColumns="2"
+                android:stretchMode="columnWidth"
+                android:verticalSpacing="@dimen/verticalSpacing_grid_view" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</FrameLayout>
