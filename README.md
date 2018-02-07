@@ -8,15 +8,16 @@
 
 <div  align="center">    
 <img src="https://github.com/guixiaoyuan/SimpleHome/blob/master/launcher.jpg" width = "360" height = "640" alt="效果图" align=center /></div>
-
+--
 <div  align="center">    
 <img src="https://github.com/guixiaoyuan/SimpleHome/blob/master/launcher1.jpg" width = "360" height = "640" alt="效果图" align=center /></div>
-
+--
 <div  align="center">    
-<img src="https://github.com/guixiaoyuan/SimpleHome/blob/master/contact.jpg" width = "360" height = "640" alt="效果图" align=center />
+<img src="https://github.com/guixiaoyuan/SimpleHome/blob/master/contact.jpg" width = "270" height = "480" alt="效果图" align=center />
 
-<img src="https://github.com/guixiaoyuan/SimpleHome/blob/master/menu.jpg" width = "360" height = "640" alt="效果图" align=center />
-<img src="https://github.com/guixiaoyuan/SimpleHome/blob/master/menu1" width = "360" height = "640" alt="效果图" align=center />
+<img src="https://github.com/guixiaoyuan/SimpleHome/blob/master/menu.jpg" width = "270" height = "480" alt="效果图" align=center />
+
+<img src="https://github.com/guixiaoyuan/SimpleHome/blob/master/menu1.jpg" width = "270" height = "480" alt="效果图" align=center />
 
 
 </div>
