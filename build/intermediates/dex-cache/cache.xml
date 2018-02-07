@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/guixiaoyuan/.android/build-cache/12ebf3bf795060478cb2596070d2ae2ce1b84906/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/guixiaoyuan/AndroidStudioProjects/SimpleHome/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_cadd578a02ad2f5dbc7432142f6aebd76dae6bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guixiaoyuan/.android/build-cache/248afc1c8878a6319596a50eb6a88e95063b4100/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/guixiaoyuan/AndroidStudioProjects/SimpleHome/app/build/intermediates/pre-dexed/debug/classes_b6bc00e23d80aa6b13f11eb4f7c707d764177148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guixiaoyuan/.android/build-cache/0f6d0e2c444541be8d89eff84a485e660258503f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/guixiaoyuan/AndroidStudioProjects/SimpleHome/app/build/intermediates/pre-dexed/debug/classes_db8be0a62e2eaf573c70b3c9a7224ddeabf6dc6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guixiaoyuan/.android/build-cache/12ebf3bf795060478cb2596070d2ae2ce1b84906/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/guixiaoyuan/AndroidStudioProjects/SimpleHome/app/build/intermediates/pre-dexed/debug/classes_57b139ba0c0706f68e61849ac3c7c2cd1f4cbe2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guixiaoyuan/.android/build-cache/954660944412265f4143f5a07955f29ff4a6a750/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/guixiaoyuan/AndroidStudioProjects/SimpleHome/app/build/intermediates/pre-dexed/debug/classes_b1a44ce7572b6c6698775551057acb08f7908fea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/guixiaoyuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/guixiaoyuan/AndroidStudioProjects/SimpleHome/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_254c46263223adecc9ff68f34919d82a830ba8e5.jar" />
+    </item>
+
+</items>
